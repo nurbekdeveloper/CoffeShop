@@ -1,4 +1,4 @@
 function Toggle(){
-    Navbar = document.getElementById("navbar")
+    Navbar = document.GetElementById("navbar")
     Navbar.classList.toggle("toggle")
 }
